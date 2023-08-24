@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MinhaNovaAplicacao</string>
+    <string name="prompt_password">Senha</string>
+    <string name="login">"Login"</string>
+    <string name="cadastro">"Cadastro"</string>
+    <string name="action_sign_in">Entrar</string>
+</resources>
